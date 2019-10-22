@@ -18,7 +18,7 @@ VERSION:	Versoin Number
 
 body {
   line-height: 1.2;
-  font-family: "verdana"; 
+  font-family: "lucida console"; 
   -webkit-font-smoothing: antialiased;
   font-size: 15px;
   color: #4c4c4c;
@@ -29,7 +29,7 @@ p, .paragraph {
   color: #4c4c4c;
   font-size: 15px;
   line-height: 1.8;
-  font-family: "verdana"; 
+  font-family: "lucida console"; 
 }
 
 p-lg, .paragraph-lg {
@@ -38,7 +38,7 @@ p-lg, .paragraph-lg {
 
 h1, h2, h3, h4, h5, h6 {
   color: #000;
-  font-family: "verdana"; 
+  font-family: "lucida console"; 
   line-height: 1.2;
 }
 
@@ -81,7 +81,7 @@ h6, .h6 {
 /* Button style */
 .btn {
   font-size: 22px;
-  font-family: "verdana"; 
+  font-family: "lucida console"; 
   text-transform: capitalize;
   padding: 16px 44px;
   border-radius: 5px;
@@ -327,11 +327,11 @@ a:hover {
 }
 
 .font-secondary {
-  font-family: "verdana"; 
+  font-family: "lucida console"; 
 }
 
 .font-tertiary {
-  font-family: "verdana"; 
+  font-family: "lucida console"; 
 }
 
 .shadow {
@@ -444,7 +444,7 @@ textarea.form-control {
 }
 
 .navbar .nav-item .nav-link {
-  font-family: "verdana"; 
+  font-family: "lucida console"; 
   text-transform: uppercase;
   padding: 15px;
 }
@@ -776,7 +776,7 @@ blockquote {
 }
 
 .content strong {
-  font-family: "verdana"; 
+  font-family: "lucida console"; 
   font-size: 22px;
   font-weight: normal;
   color: #000;
